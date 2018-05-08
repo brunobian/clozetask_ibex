@@ -1,0 +1,24 @@
+#mainLabel{
+  font-weight: bold;
+}
+
+.Sen2{
+  font-size:1.5em;
+}
+
+.ContextSen{
+  max-width: 34em;
+  margin: auto;
+  font-size: 1.2em;
+  text-align: left;
+}
+
+.Prompt{
+  font-style: italic;
+  text-align: left;
+}
+
+body{
+  margin-top: 0em;
+  font-family: sans-serif;
+}

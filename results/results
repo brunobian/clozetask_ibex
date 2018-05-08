@@ -1,0 +1,294 @@
+#
+# Results on Wednesday April 25 2018 12:45:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+# Design number was non-random = 235
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,2,0,intro,NULL,,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,3,0,demographics,NULL,age,34
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,3,0,demographics,NULL,beruf,asdf
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,3,0,demographics,NULL,gender,female
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,158,0,pvb,77,77b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,222,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,82,0,pvb,39,39b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,214,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,183,0,pva,90,89c,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,94,0,pvb,45,45b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,262,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,11,0,pva,4,4a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,34,0,pvb,15,15b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,253,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,31,0,pva,14,14a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,78,0,pvb,37,37b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,224,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,63,0,pva,30,30a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,58,0,pvb,27,27b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,240,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,39,0,pva,18,18a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,210,0,pvb,103,90d,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,227,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,167,0,pva,82,82a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,50,0,pvb,23,23b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,244,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,131,0,pva,64,64a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,202,0,pvb,99,90d,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,230,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,155,0,pva,76,76a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,106,0,pvb,51,51b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,212,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,179,0,pva,88,88a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,102,0,pvb,49,49b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,232,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,115,0,pva,56,56a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,90,0,pvb,43,43b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,238,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,151,0,pva,74,74a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,18,0,pvb,7,7b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,217,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,127,0,pva,62,62a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,118,0,pvb,57,57b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,228,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,143,0,pva,70,70a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,150,0,pvb,73,73b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,252,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,27,0,pva,12,12a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,66,0,pvb,31,31b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,213,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,123,0,pva,60,60a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,186,0,pvb,91,90b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,235,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,139,0,pva,68,68a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,30,0,pvb,13,13b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,260,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,23,0,pva,10,10a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,74,0,pvb,35,35b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,216,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,47,0,pva,22,22a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,98,0,pvb,47,47b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,221,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,191,0,pva,94,90c,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,62,0,pvb,29,29b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,254,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,187,0,pva,92,90c,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,42,0,pvb,19,19b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,250,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,55,0,pva,26,26a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,198,0,pvb,97,90d,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,241,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,159,0,pva,78,78a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,138,0,pvb,67,67b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,219,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,7,0,pva,2,2a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,46,0,pvb,21,21b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,231,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,135,0,pva,66,66a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,170,0,pvb,83,83b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,225,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,199,0,pva,98,90c,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,110,0,pvb,53,53b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,246,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,91,0,pva,44,44a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,190,0,pvb,93,90d,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,256,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,171,0,pva,84,84a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,166,0,pvb,81,81b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,226,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,35,0,pva,16,16a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,38,0,pvb,17,17b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,218,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,147,0,pva,72,72a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,126,0,pvb,61,61b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,211,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,15,0,pva,6,6a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,178,0,pvb,87,87b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,259,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,103,0,pva,50,50a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,10,0,pvb,3,3b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,258,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,71,0,pva,34,34a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,114,0,pvb,55,55b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,242,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,87,0,pva,42,42a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,22,0,pvb,9,9b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,220,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,95,0,pva,46,46a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,206,0,pvb,101,90d,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,239,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,43,0,pva,20,20a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,86,0,pvb,41,41b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,215,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,107,0,pva,52,52a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,130,0,pvb,63,63b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,237,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,99,0,pva,48,48a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,154,0,pvb,75,75b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,261,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,67,0,pva,32,32a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,162,0,pvb,79,79b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,223,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,111,0,pva,54,54a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,54,0,pvb,25,25b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,248,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,207,0,pva,102,90c,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,6,0,pvb,1,1b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,247,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,175,0,pva,86,86a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,182,0,pvb,89,89b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,251,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,75,0,pva,36,36a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,14,0,pvb,5,5b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,233,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,59,0,pva,28,28a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,134,0,pvb,65,65b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,229,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,19,0,pva,8,8a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,174,0,pvb,85,85b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,255,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,79,0,pva,38,38a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,122,0,pvb,59,59b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,257,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,163,0,pva,80,80a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,26,0,pvb,11,11b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,236,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,203,0,pva,100,90c,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,194,0,pvb,95,90d,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,243,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,83,0,pva,40,40a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,146,0,pvb,71,71b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,234,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,195,0,pva,96,90c,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,142,0,pvb,69,69b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,249,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,51,0,pva,24,24a,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,70,0,pvb,33,33b,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,245,0,filler,NULL,filler,
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FormDE,119,0,pva,58,58a,
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value_0.
+# 12. value_1.
+# 13. value_2.
+# 14. value_3.
+# 15. value_4.
+# 16. value_5.
+# 17. value_6.
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,362,0,awa,950,<p class="ContextSen">Der zuständige Modeschöpfer fasste das exquisite Kleid wegen seiner Erfahrung ganz anders...</p>,0,100,0,0,0,64,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,454,0,awa,996,<p class="ContextSen">Der einfühlsame Freund baute seine beste Freundin nach dem Schicksalsschlag sehr gern...</p>,0,100,0,64,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,458,0,awa,998,<p class="ContextSen">Die bestohlene Frau zeigte den dreisten Diebstahl bei der Polizei sehr entschlossen...</p>,0,100,0,0,62,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,365,0,awb,951,<p class="ContextSen">Der belesene Historiker forschte über die Familie und ihre Vorfahren mehrere Monate...</p>,0,100,0,0,0,0,0,0,52
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,462,0,awa,1000,<p class="ContextSen">Der talentierte Künstler bildete von dem Model die lieblichen Rundungen sehr akribisch...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,433,0,awb,985,<p class="ContextSen">Der coole Teenager kaufte seinem besten Kumpel das teure Smartphone ganz vertrauensvoll...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,369,0,awb,953,<p class="ContextSen">Der strenge Auftraggeber wies den nervösen Bewerber aufgrund seines Verhaltens freundlich aber bestimmt...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,314,0,awa,926,<p class="ContextSen">Die junge Ärztin schaltete die empfindlichen Geräte auf den automatischen Modus präventiv und wohlüberlegt...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,466,0,awa,1002,<p class="ContextSen">Der erfahrene Lehrer leitete seine jungen Schüler zum leserlichen Schreiben zügig und gekonnt...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,353,0,awb,945,<p class="ContextSen">Die nette Schneiderin nähte den auffälligen Knopf ohne Bezahlung sehr sorgfältig...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,281,0,awb,909,<p class="ContextSen">Die freundliche Schusterin rieb die flüssige Scheuermilch mit einem Schwamm völlig problemlos...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,309,0,awb,923,<p class="ContextSen">Der intelligente Chef riet dem entschlossenen Mann sein konzipiertes Vorhaben sehr eindringlich...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,354,0,awa,946,<p class="ContextSen">Der verantwortungsvolle Gruppenleiter regte eine Veränderung der Gewohnheiten nach erfolglosen Versuchen hin und wieder...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,313,0,awb,925,<p class="ContextSen">Der abgelegene See fror im letzten Winter wegen der schweren Kälte lange Zeit...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,405,0,awb,971,<p class="ContextSen">Die erfahrene Familienrichterin sprach dem verzweifelten Vater das alleinige Sorgerecht reiflich überlegt...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,418,0,awa,978,<p class="ContextSen">Der tyrannische Direktor forderte all seinen Schülern hervorragende Leistungen beim Test wie angekündigt...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,385,0,awb,961,<p class="ContextSen">Der erfahrene Regisseur blendete das fragwürdige Interview für die Zuschauer gerade noch rechtzeitig...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,334,0,awa,936,<p class="ContextSen">Der grimmige Hausbesitzer hielt die frechen Vögel von seinem Balkon wie immer erfolgreich...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,305,0,awb,921,<p class="ContextSen">Der unparteiische Rat löste die unbekannte Gruppe während einer wichtigen Sitzung schneller als gedacht...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,442,0,awa,990,<p class="ContextSen">Die trotzige Detektivin deckte das gehütete Geheimnis durch ihr enormes Wissen schon früh...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,325,0,awb,931,<p class="ContextSen">Der technisch begabte Absolvent lud die große Datei im Verlauf des Nachmittags ganz spontan...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,349,0,awb,943,<p class="ContextSen">Der heftige Orkan riss den maroden Schuppen in der Nacht wenig überraschend...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,298,0,awa,918,<p class="ContextSen">Das kleine Mädchen sprach den unaufmerksamen Eltern alle blasphemische Schimpfwörter laut und deutlich...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,297,0,awb,917,<p class="ContextSen">Die verängstigte Studentin rief die erhobenen Daten an einem alten Computer jede Woche...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,370,0,awa,954,<p class="ContextSen">Die flinke Schülerin schlug das Buch an der richtigen Seite rein zufällig...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,361,0,awb,949,<p class="ContextSen">Die müde Köchin bereitete das Gericht für die Feier ziemlich unengagiert...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,329,0,awb,933,<p class="ContextSen">Der eingeladene Hauptredner sagte seine geplante Teilnahme trotz des großzügigen Honorars nur sehr zögerlich...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,386,0,awa,962,<p class="ContextSen">Der observierende Ermittler hörte die verdächtige Wohnung seit vielen Monaten still und heimlich...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,421,0,awb,979,<p class="ContextSen">Die unerfahrene Erzieherin fragte bei den Eltern wegen mangelnder Informationen sehr interessiert...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,358,0,awa,948,<p class="ContextSen">Der neue Film spielte den erfolgreichen Produzenten unerwartet viel Geld letztendlich doch noch...</p>,0,100,0,0,0,0,0,0,0
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: html.
+#     Col. 9: startValue.
+#     Col. 10: endValue.
+#     Col. 11: value_0.
+#     Col. 12: value_1.
+#     Col. 13: value_2.
+#     Col. 14: value_3.
+#     Col. 15: value_4.
+#     Col. 16: value_5.
+#     Col. 17: value_6.
+#     Col. 18: value_7.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: html.
+#     Col. 9: startValue.
+#     Col. 10: endValue.
+#     Col. 11: value_0.
+#     Col. 12: value_1.
+#     Col. 13: value_2.
+#     Col. 14: value_3.
+#     Col. 15: value_4.
+#     Col. 16: value_5.
+#     Col. 17: value_6.
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,321,0,awb,929,<p class="ContextSen">Der tüchtige Mitarbeiter dachte für seinen neuen Chef jede Woche unglaublich flink...</p>,0,100,0,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,394,0,awa,966,<p class="ContextSen">Die schwangere Frau trieb ihr erstes Kind aufgrund eines Gendefekts nur gezwungenermaßen...</p>,0,100,0,0,0,0,0,0,0
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. html.
+# 9. startValue.
+# 10. endValue.
+# 11. value_0.
+# 12. value_1.
+# 13. value_2.
+# 14. value_3.
+# 15. value_4.
+# 16. value_5.
+# 17. value_6.
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,445,0,awb,991,<p class="ContextSen">Die gutmütige Ehefrau hing die geblümten Vorhänge nach einem Telefonat merklich gestresst...</p>,0,100,0,0,0,0,0,0,0
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,ScaleArray,306,0,awa,922,<p class="ContextSen">Der inspirierte Künstler bildete die dickliche Frau in der Skizze sehr gewissenhaft...</p>,0,100,0,0,0,0,0,0,0
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Sentence (or sentence MD5).
+1524660320,5a4b4ef79fa794640cbd2d51631e3356,FlashSentence,470,0,end,NULL,Geschafft! Vielen Dank für Ihre Teilnahme.
